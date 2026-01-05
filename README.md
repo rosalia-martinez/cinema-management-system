@@ -1,5 +1,3 @@
-Cinema Management System | Sistema de Gestión de Cine
-
 English | Español
 
 ENGLISH VERSION
